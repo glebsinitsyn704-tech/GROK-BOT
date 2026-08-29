@@ -1,0 +1,22 @@
+{
+  "name": "grok-bot-terminal",
+  "version": "1.0.0",
+  "description": "My personal animated Grok Bot signal terminal",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "keywords": [
+    "grok",
+    "trading",
+    "terminal",
+    "agents",
+    "lumox"
+  ],
+  "author": "Lumox",
+  "license": "MIT"
+}
